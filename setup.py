@@ -4,7 +4,7 @@ import os
 
 from setuptools import setup
 
-setup(name='vSphere Automation SDK',
+setup(name='vsphere-automation-sdk-python',
       version='1.46.0',
       description='VMware vSphere Automation SDK for Python',
       url='https://github.com/vmware/vsphere-automation-sdk-python',
@@ -26,6 +26,6 @@ setup(name='vSphere Automation SDK',
         'vmc-draas-client-bindings==1.17.0',
       ],
       dependency_links=[
-        'https://cdn.githubraw.com/vmware/vsphere-automation-sdk-python/master/lib/',
+        'https://cdn.githubraw.com/anusha94/vsphere-automation-sdk-python/master/lib/',
       ]
       )

@@ -3,3 +3,5 @@ __pycache__/
 .DS_Store
 .idea/*
 .gradle/*
+dist
+vsphere_automation_sdk_python.egg-info
