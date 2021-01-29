@@ -1,0 +1,1 @@
+https://cdn.githubraw.com/anusha94/vsphere-automation-sdk-python/master/lib/

@@ -4,4 +4,4 @@ __pycache__/
 .idea/*
 .gradle/*
 dist
-vSphere_Automation_SDK.egg-info
+vsphere_automation_sdk_python.egg-info
